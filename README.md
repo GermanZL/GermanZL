@@ -12,3 +12,5 @@
 - 🛢️ Bases de datos: MySQL, PostgreSQL, MongoDB  
 - 🧰 Herramientas: Git, GitHub, Docker, XAMPP, Power BI, Tableau  
 - ☁️ Cloud y redes: AWS, máquinas virtuales, Cisco Packet Tracer
+
+javascript logo  python logo  java logo  mysql logo  vscode logo docker logo
