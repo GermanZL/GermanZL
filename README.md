@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy German Zeron
 
-<!--
-**GermanZL/GermanZL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ingeniero en Sistemas Computacionales  
+💻 Enfocado en desarrollo Backend, análisis de datos y administración de bases de datos  
+🚀 Apasionado por automatizar, construir soluciones útiles y aprender tecnologías nuevas  
+🔧 Tecnologías: Python, PHP, Java, SQL, MongoDB, Docker, Git, Power BI  
+📫 german.zeron@outlook.com | 🌐 www.germanzeron.com
 
-Here are some ideas to get you started:
+## 🔨 Tecnologías que uso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Lenguajes: Python, Java, PHP, SQL, HTML, JavaScript  
+- 🛢️ Bases de datos: MySQL, PostgreSQL, MongoDB  
+- 🧰 Herramientas: Git, GitHub, Docker, XAMPP, Power BI, Tableau  
+- ☁️ Cloud y redes: AWS, máquinas virtuales, Cisco Packet Tracer
